@@ -15,7 +15,7 @@
 
 - [ ] Online-Präsenz: Wenn der Arbeitgeber *in spe* meinen Namen auf einer Suchmaschine eingibt, sollen vor allem seriöse Informationen erscheinen, wenn überhaupt. 
 - [X] Referenz-Schreiben ausfüllen:
-  - [ ] Einige Kern-Eigenschaften aufschreiben, die mich ausmachen.
+  - [X] Einige Kern-Eigenschaften aufschreiben, die mich ausmachen.
   - [X] Evidenz für diese Eigenschaften finden und ausformulieren
   - [X] Rechtschreibeprüfung
 
