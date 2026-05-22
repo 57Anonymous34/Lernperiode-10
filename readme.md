@@ -1,0 +1,41 @@
+# Lern-Periode 10
+
+22.5. bis 26.6.
+
+## Grob-Planung
+
+1. Welche 2 Projekte haben Sie bereits auf Ihrem github, welche Sie verlinken könnten? (Lassen Sie einen Platzhalter)
+2. Wie sieht Ihr *skill portfolio* aus? Was können Sie bereits, und was wäre etwas, das Sie lernen möchten?
+
+## 22.5.
+
+- [X] Ein Grundgerüst für meine Startseite erstellen. Dieses sollte einen Abholer-Satz und Kontaktinformationen beeinhalten, auf meinen CV verlinken, und einige Projekte in den Vordergrund stellen.
+  - [X] Ein ansprechendes Layout für die Startseite auf Papier entworfen, zusammen mit einem "Abholer-Satz", der die Aufmerksamkeit des Praktikumsgebers *in spe* auf sich zieht.
+  - [X] Dieses Layout auf rudimentäre Weise mit HTML und CSS umsetzen
+
+- [ ] Online-Präsenz: Wenn der Arbeitgeber *in spe* meinen Namen auf einer Suchmaschine eingibt, sollen vor allem seriöse Informationen erscheinen, wenn überhaupt. 
+- [X] Referenz-Schreiben ausfüllen:
+  - [ ] Einige Kern-Eigenschaften aufschreiben, die mich ausmachen.
+  - [X] Evidenz für diese Eigenschaften finden und ausformulieren
+  - [X] Rechtschreibeprüfung
+
+☝️ Vergessen Sie nicht, einen ersten Entwurf Ihrer Start-Seite in der entsprechenden Ablage hochzuladen.
+Heute habe ich eine Skizze für meine Portfoliowebseite erstellt. Sie wird einbisschen ähnlich wie meine alte Webseite sein, mit kleinen veränderung oder sogar auch grosse. Leider konnte ich nichts Online über mich finden, es wurde mir der Fussball Spieler Ardon Jashari vorgeschlagen. Das Blatt mit Referenzen habe ich vollständig abgeschlossen.
+
+## 29.5.
+
+- [ ] Ein gutes Bild von, Github Logo, LinkedIn logo, CV Link hinzufügen
+- [ ] Die besten Projekte von mir veröffentlichen, damit andere meine Projekte sehen können, und noch einen kleinen Text zu den Projekten.
+- [ ] Die Webseite sollte Modern aussehen, nicht zu Bund(Beige, Weiss).
+- [ ] Die Navigation verbessern, damit man einfacher zwischen den Bereichen wechseln kann.
+
+☝️ Vergessen Sie nicht, die angepasste Version Ihrer Start-Seite in der entsprechenden Ablage hochzuladen.
+
+## 5.6.
+
+- [ ] LinkedIn-Profil erstellen / ausputzen
+- [ ] GitHub-Profil professionalisieren (`readme.md`)
+- [ ] Start-Seite abschliessen
+- [ ] Rückmeldung geben
+
+☝️ Vergessen Sie nicht, die fertige Version Ihrer Start-Seite in der entsprechenden Ablage hochzuladen.
