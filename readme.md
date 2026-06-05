@@ -39,3 +39,11 @@ Heute habe ich eine Skizze für meine Portfoliowebseite erstellt. Sie wird einbi
 - [ ] Rückmeldung geben
 
 ☝️ Vergessen Sie nicht, die fertige Version Ihrer Start-Seite in der entsprechenden Ablage hochzuladen.
+Heute habe ich mein LinkedIn verbessert, ich habe wichtige Infos wie Projekte, das ich auf einer Prqaktikum Suche bin. Ich habe auch Schweizer Unternehmen gefolgt die etwas mit Informatik zu tun haben.
+
+LinikedIn: https://www.linkedin.com/in/amar-jashari-50a53a414/
+
+Meine Bewerbungsunterlagen hinterlassen insgesamt einen positiven Eindruck. Besonders positiv wurden mein Lebenslauf, mein GitHub-Profil, meine technischen Kenntnisse sowie meine Motivation bewertet.
+
+Aus den Rückmeldungen habe ich gelernt, dass ich meine Projekte noch genauer beschreiben und den Bezug zum Unternehmen im Motivationsschreiben stärker hervorheben sollte. Ausserdem kann ich mein E-Mail-Anschreiben ausführlicher gestalten und mehr praktische Erfahrungen durch eigene Projekte sammeln.
+
