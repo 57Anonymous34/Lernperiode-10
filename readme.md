@@ -24,21 +24,22 @@ Heute habe ich eine Skizze für meine Portfoliowebseite erstellt. Sie wird einbi
 
 ## 29.5.
 
-- [ ] Ein gutes Bild von, Github Logo, LinkedIn logo, CV Link hinzufügen
-- [ ] Die besten Projekte von mir veröffentlichen, damit andere meine Projekte sehen können, und noch einen kleinen Text zu den Projekten.
-- [ ] Die Webseite sollte Modern aussehen, nicht zu Bund(Beige, Weiss).
-- [ ] Die Navigation verbessern, damit man einfacher zwischen den Bereichen wechseln kann.
+- [X] Ein gutes Bild von, Github Logo, LinkedIn logo, CV Link hinzufügen
+- [X] Die besten Projekte von mir veröffentlichen, damit andere meine Projekte sehen können, und noch einen kleinen Text zu den Projekten.
+- [X] Die Webseite sollte Modern aussehen, nicht zu Bund(Beige, Weiss).
+- [X] Die Navigation verbessern, damit man einfacher zwischen den Bereichen wechseln kann.
 
 ☝️ Vergessen Sie nicht, die angepasste Version Ihrer Start-Seite in der entsprechenden Ablage hochzuladen.
 
 ## 5.6.
 
-- [ ] LinkedIn-Profil erstellen / ausputzen
-- [ ] GitHub-Profil professionalisieren (`readme.md`)
+- [X] LinkedIn-Profil erstellen / ausputzen
+- [X] GitHub-Profil professionalisieren (`readme.md`)
 - [ ] Start-Seite abschliessen
-- [ ] Rückmeldung geben
+- [X] Rückmeldung geben
 
 ☝️ Vergessen Sie nicht, die fertige Version Ihrer Start-Seite in der entsprechenden Ablage hochzuladen.
+
 Heute habe ich mein LinkedIn verbessert, ich habe wichtige Infos wie Projekte, das ich auf einer Prqaktikum Suche bin. Ich habe auch Schweizer Unternehmen gefolgt die etwas mit Informatik zu tun haben.
 
 LinikedIn: https://www.linkedin.com/in/amar-jashari-50a53a414/
