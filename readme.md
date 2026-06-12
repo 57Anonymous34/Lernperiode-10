@@ -48,3 +48,16 @@ Meine Bewerbungsunterlagen hinterlassen insgesamt einen positiven Eindruck. Beso
 
 Aus den Rückmeldungen habe ich gelernt, dass ich meine Projekte noch genauer beschreiben und den Bezug zum Unternehmen im Motivationsschreiben stärker hervorheben sollte. Ausserdem kann ich mein E-Mail-Anschreiben ausführlicher gestalten und mehr praktische Erfahrungen durch eigene Projekte sammeln.
 
+
+
+## 12.6.
+- [X] Meine Webseite verbessern.(Die Bilder werden viel zu gross angezeigt)
+- [ ] Projekte Hinzufügen
+
+Heute habe ich alle 6 Arbeitspakete für unser kleines Projekt. Ich habe gemerkt das meine Webseite immer noch unvollständig ist und man noch mehr bearbeiten kann. Die Bilder von meinen Projekten werden viel zu gross angezeigt. Ich konnte das Problem beheben.
+
+## 19.6.
+- [ ] Ein passendes Bild für Bewerbungsunterlagen und Linked machen.
+- [ ] Linked auspolieren(Mehr Projekte hinzufügen, mehrere Firmen, Leuten folgen)
+- [ ] Meine erste Bewerbung abschicken.
+- [ ] Bilder von meinem Leben auf der Webseite hinzufügen.(Urlaub, Sport, etc.)
