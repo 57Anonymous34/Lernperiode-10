@@ -52,7 +52,7 @@ Aus den Rückmeldungen habe ich gelernt, dass ich meine Projekte noch genauer be
 
 ## 12.6.
 - [X] Meine Webseite verbessern.(Die Bilder werden viel zu gross angezeigt)
-- [ ] Projekte Hinzufügen
+- [ ] Projekte auf Webseite hinzufügen
 
 Heute habe ich alle 6 Arbeitspakete für unser kleines Projekt. Ich habe gemerkt das meine Webseite immer noch unvollständig ist und man noch mehr bearbeiten kann. Die Bilder von meinen Projekten werden viel zu gross angezeigt. Ich konnte das Problem beheben.
 
