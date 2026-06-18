@@ -52,12 +52,17 @@ Aus den Rückmeldungen habe ich gelernt, dass ich meine Projekte noch genauer be
 
 ## 12.6.
 - [X] Meine Webseite verbessern.(Die Bilder werden viel zu gross angezeigt)
-- [ ] Projekte auf Webseite hinzufügen
+- [X] Projekte auf Webseite hinzufügen
 
 Heute habe ich alle 6 Arbeitspakete für unser kleines Projekt. Ich habe gemerkt das meine Webseite immer noch unvollständig ist und man noch mehr bearbeiten kann. Die Bilder von meinen Projekten werden viel zu gross angezeigt. Ich konnte das Problem beheben.
 
 ## 19.6.
-- [ ] Ein passendes Bild für Bewerbungsunterlagen und Linked machen.
+- [X] Ein passendes Bild für Bewerbungsunterlagen und Linked machen.
 - [ ] Linked auspolieren(Mehr Projekte hinzufügen, mehrere Firmen, Leuten folgen)
 - [ ] Meine erste Bewerbung abschicken.
 - [ ] Bilder von meinem Leben auf der Webseite hinzufügen.(Urlaub, Sport, etc.)
+
+Heute bin ich mit meiner Portfolio-Webseite fertig geworden. Ich habe ein passendes Bild für die Webseite und meine Bewerbungsunterlagen ausgewählt. Leider habe ich die Mitteilung erhalten, dass ich mich auf LinkedIn verifizieren muss. Deshalb muss ich nun bis zu fünf Tage warten, bis ich meinen Account wieder verwenden kann. Ich warte noch auf die Rückmeldung von Herrn Colic. Wenn er mir das Go gibt, schicke ich meine erste Bewerbung ab.
+
+Wünscht mir Glück! :)
+
